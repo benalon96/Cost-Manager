@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="derby">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.idea/libraries/derby" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/.idea/libraries/derby/db-derby-10.15.2.0-bin/demo/programs" />
+      <root url="file://$PROJECT_DIR$/.idea/libraries/derby/db-derby-10.15.2.0-bin/demo/programs/scores/java/client" />
+      <root url="file://$PROJECT_DIR$/.idea/libraries/derby/db-derby-10.15.2.0-bin/demo/programs/scores/java/common" />
+      <root url="file://$PROJECT_DIR$/.idea/libraries/derby/db-derby-10.15.2.0-bin/demo/programs/scores/java/server" />
+      <root url="file://$PROJECT_DIR$/.idea/libraries/derby/db-derby-10.15.2.0-bin/demo/programs/simple" />
+      <root url="file://$PROJECT_DIR$/.idea/libraries/derby/db-derby-10.15.2.0-bin/demo/programs/vtis/java" />
+    </SOURCES>
+  </library>
+</component>

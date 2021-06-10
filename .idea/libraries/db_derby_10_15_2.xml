@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="db-derby-10.15.2">
+    <CLASSES>
+      <root url="file://D:/derby/db-derby-10.15.2.0-bin" />
+      <root url="file://$USER_HOME$/Downloads/‏‏תיקיה חדשה/jfreechart-1.0.19" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/derby/db-derby-10.15.2.0-bin/demo/programs" />
+      <root url="file://D:/derby/db-derby-10.15.2.0-bin/demo/programs/scores/java/client" />
+      <root url="file://D:/derby/db-derby-10.15.2.0-bin/demo/programs/scores/java/common" />
+      <root url="file://D:/derby/db-derby-10.15.2.0-bin/demo/programs/scores/java/server" />
+      <root url="file://D:/derby/db-derby-10.15.2.0-bin/demo/programs/simple" />
+      <root url="file://D:/derby/db-derby-10.15.2.0-bin/demo/programs/vtis/java" />
+      <root url="file://$USER_HOME$/Downloads/‏‏תיקיה חדשה/jfreechart-1.0.19/experimental" />
+      <root url="file://$USER_HOME$/Downloads/‏‏תיקיה חדשה/jfreechart-1.0.19/source" />
+      <root url="file://$USER_HOME$/Downloads/‏‏תיקיה חדשה/jfreechart-1.0.19/swt" />
+      <root url="file://$USER_HOME$/Downloads/‏‏תיקיה חדשה/jfreechart-1.0.19/tests" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/‏‏תיקיה חדשה/jfreechart-1.0.19" recursive="false" />
+  </library>
+</component>
