@@ -2,6 +2,7 @@
 
 Software that manages your money 
 well in addition shows all the expenses in chart pie by categories.
+##---This app was developed by Ben Alon---##
 Link to youtube:
 https://www.youtube.com/watch?v=HUMMWzLkVO4
 
