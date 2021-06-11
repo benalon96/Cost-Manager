@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=HUMMWzLkVO4
 <br/>
 <br/>
 <br/>
-<br/>
+
 ![cost manager-pic1](https://user-images.githubusercontent.com/65303505/121533433-f2622700-ca08-11eb-885b-7d2e63ee6431.PNG)
 <br/>
 <br/>
